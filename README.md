@@ -2,7 +2,7 @@
 SQL project 1 on Nobel Prizes database in PostgreSQL and REST API in NodeJS
 ## *URL to use to get data :*
 * F1: Lister tous les lauréats (id, prénom, nom).  
-  * RCS: Routers - Controllers - Services
+  * GET : http://localhost:3000/laureates/
   * RCSM: Routers - Controllers - Services - Models  
 * Try to refer to work done in the first three weeks to structure your application.  
   * Week 1: Read/Write to a file  
